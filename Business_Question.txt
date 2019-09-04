@@ -7,5 +7,5 @@ I should start my new business. I want to identify the neighborhoods which have 
 
 I can use the FourSquare location API to locate venues in the area that are in the neighborhoods and categorize them. 
 From these data points, I will be able to identify neighborhoods in Toronto that are close in proximity to the venues I desire. 
-These are venues will attract future customers, and if my store front is close to these venues I will be able to attract 
+These are the types of venues that will attract future customers, and if my store front is close to these venues I will be able to attract 
 customers form foot traffic.  
