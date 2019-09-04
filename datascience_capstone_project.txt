@@ -1,6 +1,0 @@
-﻿Toronto Data Science Capstone Project
-I'm a new business owner and I'm looking to open a new dog grooming business. Which neighborhood should I open my business in if I want to make sure I will have foot traffic?
-Ideally, I would like to be close to parks, restaurants and dog runs.
-
-The dataset I will use will be from the toronto postal codes wiki page. I will scrape for the dataset and I will use the Foursquare locations API for venues
-I will then analyze the dataset using kmeans clustering to determine which neighborhoods would be a good target for foottraffic. 
