@@ -1,0 +1,11 @@
+Data Science Capstone Project
+
+Business Question:
+
+I am a new business owner, and I live in the Toronto are. I am interested in starting a dog grooming business and I want to know in which neighborhood 
+I should start my new business. I want to identify the neighborhoods which have the most parks, dog walks, and restaurants. 
+
+I can use the FourSquare location API to locate venues in the area that are in the neighborhoods and categorize them. 
+From these data points, I will be able to identify neighborhoods in Toronto that are close in proximity to the venues I desire. 
+These are venues will attract future customers, and if my store front is close to these venues I will be able to attract 
+customers form foot traffic.  
